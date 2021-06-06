@@ -1,0 +1,15 @@
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\KPro_CustomRadial.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\KPro_CustomRadial.pdb
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\0Harmony.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\Assembly-CSharp.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\DMT.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\UnityEngine.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\LogLibrary.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\obj\Debug\KPro_CustomRadial.csprojAssemblyReference.cache
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\obj\Debug\KPro_CustomRadial.csproj.CoreCompileInputs.cache
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\obj\Debug\KPro_CustomRadial.csproj.CopyComplete
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\obj\Debug\KPro_CustomRadial.dll
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\obj\Debug\KPro_CustomRadial.pdb
+C:\Users\dcrav\source\repos\cravens1968\KPro_CustomRadial\bin\Debug\LogAnywhere.dll

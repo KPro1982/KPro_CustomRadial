@@ -1,0 +1,9 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+KProGoHome,Items,Melee,,,"Ruby slippers."
+KProGoHomeDesc,Items,Melee,,,"Use these if you are missing Kansas."
+KProSetHome,Items,Melee,,,"A Shimmering key."
+KProSetHomeDesc,Items,Melee,,,"Use this key to set your home location."
+KProReturn,Items,Melee,,,"A broken computer key."
+KProReturnDesc,Items,Melee,,,"Use this key to return to your prior location."
+gunTeleport,Items,Melee,,,"A strange looking object."
+gunTeleportDesc,Items,Melee,,,"It looks like it has a receptical large enough for a pair of shoes."
